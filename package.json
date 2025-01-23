@@ -1,0 +1,13 @@
+{
+    "name": "mongo-demo",
+    "version": "1.0.0",
+    "description": "Простой пример работы с MongoDB",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.12"
+    }
+  }
